@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Filipino Popular Tales</dc:title>
+      <dc:creator>Dean Spruill Fansler (1885–)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2005-06-01</dc:publisher>
+      <dc:date>2005-06-01</dc:date>
+      <dc:rights>This text is in the public domain. First published in 1921 in the U.S.A., so the copyright has expired. Note that the supplemental material, added for the 1965 reprint has been removed.
+Scans of the original version of this work are available on Google Books and The Internet Archive.
+</dc:rights>
+      <dc:subject>Folklore -- Philippines</dc:subject>
+      <dc:subject>Tales -- Philippines</dc:subject>
+      <dc:identifier>pg:8299</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
